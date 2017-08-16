@@ -1,6 +1,6 @@
 ## ShakeEvent Module for FramerJS
 
-<img src="demo.gif" width="100%">
+<img src="demo.gif" width="400px">
 
 
 #### DEMO: (Open in your phone)
@@ -24,4 +24,4 @@ ShakeEvent.sensitivity      = 20  # Default 20  (a lower number is more sensitiv
 ```
 
 
-<img width="160px" src='fm-badge.png'>
+<a href="#"><img width="160px" src='fm-badge@2x.png'></a>
