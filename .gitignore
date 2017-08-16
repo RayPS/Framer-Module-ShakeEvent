@@ -1,0 +1,3 @@
+*.framer/*
+!*.framer/modules
+!*.framer/*.coffee

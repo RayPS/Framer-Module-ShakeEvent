@@ -1,0 +1,11 @@
+{
+    "name": "ShakeEvent",
+    "description": "Shake event for your prototype",
+    "author": "rayps",
+
+    "require": "ShakeEvent = require \"shakeEvent\"",
+    "install": "example.framer/modules/shakeEvent.coffee",
+    "example": "example.framer/app.coffee",
+
+    "thumb": "thumb@2x.png"
+}
