@@ -4,8 +4,8 @@
     "author": "rayps",
 
     "require": "ShakeEvent = require \"shakeEvent\"",
-    "install": "example.framer/modules/shakeEvent.coffee",
-    "example": "example.framer/app.coffee",
+    "install": "shakeEvent.coffee",
+    "example": "snippet.coffee",
 
     "thumb": "thumb@2x.png"
 }
